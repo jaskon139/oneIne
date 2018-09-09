@@ -4,5 +4,5 @@
     "local_port":7780,
     "password":"Oydaiphyaw",
     "timeout":60,
-    "method":"chacha20-ietf-poly1305"
+    "method":"aes-256-cfb"
 }
